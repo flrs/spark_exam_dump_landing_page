@@ -1,7 +1,7 @@
 ---
 banner:
   title: Let's get you <br> Databricks certified!
-  image: images/banner-art.svg
+  image: images/databricks_exam_success.svg
   content: You want exam success with Databricks Certified Associate Developer for Apache Spark 3.0 exam certification dumps? <br> We help you ace the Databricks certification exam with updated, relevant practice tests with high-quality questions and answers. <br> Get fit for the real exam cheap and in minimal time!
   button:
     enable: true
