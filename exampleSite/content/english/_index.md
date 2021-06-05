@@ -98,8 +98,7 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
-title: test title
-subtitle: bliblu
+title: Databricks Spark Certification Dumps
+subtitle: ''
 
 ---
-Hello, this is the Homepage.
