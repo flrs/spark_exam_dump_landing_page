@@ -24,7 +24,7 @@ jobs:
       - name: Build
         run: cd exampleSite && hugo --gc --themesDir ../..
         env:
-          HUGO_THEME: spark-exam-dump-landing-page
+          HUGO_THEME: spark_exam_dump_landing_page
           HUGO_BASEURL: /
         
       - name: Deploy
