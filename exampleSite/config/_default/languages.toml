@@ -1,13 +1,13 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "Databricks Spark Certification Dumps"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Prepare for the Databricks Certified Associate Developer for Apache Spark 3.0 exam the right way with the most updated exam questions helping you pass the real exam."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "This website and course are not endorsed by the Apache Software Foundation. \"Spark\", \"Apache Spark\" and the Spark logo are trademarks of the Apache Software Foundation. This website and course are not endorsed by or affiliated with Databricks."
