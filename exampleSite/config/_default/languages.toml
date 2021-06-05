@@ -1,9 +1,9 @@
 ############################# English ############################
-[en]
-languageName = "En"
-title = "Databricks Spark Certification Dumps"
-contentDir = "content/english" # content/english
-weight = 1
+#[en]
+#languageName = "En"
+#title = "Databricks Spark Certification Dumps"
+#contentDir = "content/english" # content/english
+#weight = 1
 ########### footer content ##########
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
