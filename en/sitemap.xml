@@ -5,16 +5,6 @@
   <url>
     <loc>/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/post-1/"
-                />
   </url>
   
   <url>
@@ -35,16 +25,6 @@
   <url>
     <loc>/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/"
-                />
   </url>
   
   <url>
@@ -88,58 +68,18 @@
   
   <url>
     <loc>/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
   </url>
   
   <url>
     <loc>/faq/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/faq/"
-                />
   </url>
   
   <url>
     <loc>/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/pricing/"
-                />
   </url>
   
   <url>
     <loc>/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/privacy-policy/"
-                />
   </url>
   
   <url>
@@ -158,16 +98,6 @@
   
   <url>
     <loc>/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/terms-conditions/"
-                />
   </url>
   
 </urlset>
