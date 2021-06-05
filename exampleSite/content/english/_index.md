@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: SIGN UP NOW
-    link: contact
+    link: https://bit.ly/sparkpracticeexams
 feature:
   enable: true
   title: Something You Need To Know
