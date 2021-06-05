@@ -28,7 +28,7 @@ feature:
     content: Ask questions to the instructor and other students anytime!
   - name: Money Back Guarantee
     icon: fas fa-smile
-    content: Not convinced? Get your money back for 30 days!
+    content: Not convinced or not happy? Get your money back for 30 days!
 service:
   enable: true
   service_item:
