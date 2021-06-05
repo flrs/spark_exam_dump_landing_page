@@ -13,22 +13,22 @@ feature:
   feature_item:
   - name: High-Quality Questions
     icon: fas fa-star
-    content: Access an expert-written question pool you cannot find anywhere else
+    content: Access an expert-written question pool you cannot find anywhere else!
   - name: Detailed Explanations
     icon: fas fa-search-plus
-    content: Learn with with detailed explanations of correct and incorrect anwers
+    content: Learn with with detailed explanations of correct and incorrect anwers!
   - name: Realistic Syllabus
-    icon: fas fa-ball-pile
-    content: Study all topics from the certification syllabus of the real Databricks exam
+    icon: fas fa-book
+    content: Study all topics from the certification syllabus of the real Databricks exam!
   - name: Up-to-Date Content
     icon: fas fa-sync-alt
-    content: Most realistic tests, continuously updated based on feedback
+    content: Most realistic tests, continuously updated based on feedback!
   - name: Expert Support
     icon: fas fa-concierge-bell
-    content: Ask questions to the instructor and other students anytime
+    content: Ask questions to the instructor and other students anytime!
   - name: Money Back Guarantee
     icon: fas fa-smile
-    content: Not convinced? Get your money back for 30 days.
+    content: Not convinced? Get your money back for 30 days!
 service:
   enable: true
   service_item:
