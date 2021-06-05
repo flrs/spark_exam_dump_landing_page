@@ -9,7 +9,7 @@ banner:
     link: https://bit.ly/sparkpracticeexams
 feature:
   enable: true
-  title: Practice Exam Advantages
+  title: Why You Will Be Successful
   feature_item:
   - name: High-Quality Questions
     icon: fas fa-star
