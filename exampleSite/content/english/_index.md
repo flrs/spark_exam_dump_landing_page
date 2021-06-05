@@ -1,13 +1,11 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Let's get you <br> Databricks certified!
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: You want exam success with Databricks Certified Associate Developer for Apache Spark 3.0 exam certification dumps? We help you ace the Databricks certification exam with updated, relevant practice tests with high-quality questions and answers. Get fit for the real exam now!
   button:
     enable: true
-    label: Contact With Us
+    label: SIGN UP NOW
     link: contact
 feature:
   enable: true
