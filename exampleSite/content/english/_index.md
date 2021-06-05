@@ -88,6 +88,34 @@ screenshot:
   enable: true
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
+pricing_left:
+  name: Basic Plan
+  price: "$49"
+  price_per: month
+  info: Best For Small Individuals
+  services:
+  - Express Service
+  - Customs Clearance
+  - Time-Critical Services
+  button:
+    enable: true
+    label: Get started for free
+    link: "#"
+pricing_right:
+  name: Professional Plan
+  price: "$49"
+  price_per: month
+  info: Best For Professionals
+  services:
+  - Express Service
+  - Customs Clearance
+  - Time-Critical Services
+  - Cloud Service
+  - Best Dashboard
+  button:
+    enable: true
+    label: Get started for free
+    link: "#"
 call_to_action:
   enable: true
   title: Ready to get started?
