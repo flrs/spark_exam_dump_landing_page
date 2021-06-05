@@ -24,7 +24,10 @@ jobs:
       - name: Build
         run: hugo --gc --themesDir ../..
         working-directory: exampleSite
-
+        env:
+          HUGO_THEME: repo
+          HUGO_BASEURL: /
+        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
