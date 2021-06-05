@@ -101,3 +101,4 @@ call_to_action:
 title: test title
 
 ---
+Hello, this is the Homepage.
