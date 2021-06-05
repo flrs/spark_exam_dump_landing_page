@@ -9,26 +9,26 @@ banner:
     link: https://bit.ly/sparkpracticeexams
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Practice Exam Advantages
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
-    icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: High-Quality Questions
+    icon: fas fa-star
+    content: Access an expert-written question pool you cannot find anywhere else
+  - name: Detailed Explanations
+    icon: fas fa-search-plus
+    content: Learn with with detailed explanations of correct and incorrect anwers
+  - name: Realistic Syllabus
+    icon: fas fa-ball-pile
+    content: Study all topics from the certification syllabus of the real Databricks exam
+  - name: Up-to-Date Content
+    icon: fas fa-sync-alt
+    content: Most realistic tests, continuously updated based on feedback
+  - name: Expert Support
+    icon: fas fa-concierge-bell
+    content: Ask questions to the instructor and other students anytime
+  - name: Money Back Guarantee
+    icon: fas fa-smile
+    content: Not convinced? Get your money back for 30 days.
 service:
   enable: true
   service_item:
