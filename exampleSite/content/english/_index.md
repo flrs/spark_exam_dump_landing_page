@@ -97,10 +97,10 @@ call_to_action:
   enable: true
   title: Ready to pass the Databricks Spark Exam?
   image: images/databricks_exam_practice_tests_pass.svg
-  content: Join the many students who have passed the Databricks Certified Associate Developer for Apache Spark 3.0 exam and get access to the practice exams right now.
+  content: Join the many students who have passed the Databricks Certified Associate Developer for Apache Spark 3.0 exam and get access to the practice exams right now!
   button:
     enable: true
-    label: Sign Up
+    label: Let's go!
     link: https://bit.ly/sparkpracticeexams
 title: Databricks Spark Certification Dumps
 subtitle: ''
