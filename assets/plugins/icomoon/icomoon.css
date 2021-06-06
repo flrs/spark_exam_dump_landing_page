@@ -2,9 +2,10 @@
   font-family: 'fas';
   src:  url('fonts/fas.eot?1xnzjv');
   src:  url('fonts/fas.eot?1xnzjv#iefix') format('embedded-opentype'),
-    url('fonts/fas.ttf?1xnzjv') format('truetype'),
+    url('fonts/fas.woff2?1xnzjv') format('woff2'),	
     url('fonts/fas.woff?1xnzjv') format('woff'),
-    url('fonts/fas.svg?1xnzjv#fas') format('svg');
+    url('fonts/fas.svg?1xnzjv#fas') format('svg'),
+    url('fonts/fas.ttf?1xnzjv') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: block;
