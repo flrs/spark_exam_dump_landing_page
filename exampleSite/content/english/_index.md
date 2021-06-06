@@ -40,7 +40,7 @@ service:
     button:
       enable: true
       label: Check it out
-      link: "#"
+      link: https://bit.ly/sparkpracticeexams
   - title: It is a privately owned Information and cyber security company
     images:
     - images/service-1.png
