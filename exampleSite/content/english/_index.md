@@ -44,23 +44,19 @@ service:
   - title: Be Smart, Save Money, and Pass the First Time!
     images:
     - images/pass_exam_on_first_try.svg
-    content: In comparison to exam dumps, our practice tests are really affordable. You save money and learn how to ace the Databricks certification exam. With questions similar to what you will find in the real exam, get ready to pass the first time. By following our tests' certification syllabus and the many questions and answers you will not have to spend additional money on repeating the exam or on paying for expensive PDF exam braindumps. With our money back guarantee, you do not have to worry. 
+    content: In comparison to exam dumps, our practice tests are really affordable. You save money and learn how to ace the Databricks certification exam. With questions similar to what you will find in the real exam, get ready to pass the first time. <br> By following our tests' certification syllabus and the many questions and answers you will not have to spend additional money on repeating the exam or on paying for expensive PDF exam braindumps. With our money back guarantee, you do not have to worry. 
     button:
       enable: true
       label: Check it out
       link: https://bit.ly/sparkpracticeexams
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Join the Community and Ace the Exam!
     images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/databricks_exam_support.svg
+    content: Studying Databricks Spark Certification Dumps alone can be hard. When you look at questions you will find in the real exam or at a dumps PDF, you may have many expected questions. Our practice exams have a great community of students who have taken the practice quizzes. Together, they know much more than all simplified exam dumps ever could. Our instructors are also here to help you pass the exam. You are invited to be a part of this community, ask your questions, and ace the Databricks Spark exam!
     button:
       enable: true
       label: Check it out
-      link: "#"
+      link: https://bit.ly/sparkpracticeexams
   - title: A company standing different from others
     images:
     - images/service-3.png
