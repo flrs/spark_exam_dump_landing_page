@@ -4,6 +4,6 @@ googleAnalytics = "G-15PK4S7L6G"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Databrick Spark Certification Dumps"
+title = "Databricks Spark Certification Dumps - Exam Success + PDF"
 [markup.goldmark.renderer]
 unsafe = true
