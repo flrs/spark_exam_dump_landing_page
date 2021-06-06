@@ -118,9 +118,9 @@ pricing_right:
   - Learn for exam + job
   - Detailed explanations
   - Support community
+  - Exam tips & tricks PDF
   - Continuously updated content
   - Links to expert articles
-  - Exam tips & tricks PDF
   - 30-Day Money Back Guarantee
   button:
     enable: true
