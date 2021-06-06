@@ -39,7 +39,7 @@ service:
     content: Do not rely on a Databricks Spark Certification Dumps PDF. They do not teach you enough to prepare for the updated questions in the certification exam. You can be surprised to find that you fail in the real exam. You are unprepared to use Spark in your job.<br> Many students like you pass the exam without help from a braindump or dumps pool. Using our practice exams does not take much time. The updated, relevant questions and explanations help you to really understand the underlying concepts. When you have used the practice exams in your study plan, you are very well prepared to pass the exam!
     button:
       enable: true
-      label: Check it out
+      label: Start practicing now
       link: https://bit.ly/sparkpracticeexams
   - title: Be Smart, Save Money, and Pass the First Time!
     images:
@@ -49,28 +49,16 @@ service:
       enable: true
       label: Check it out
       link: https://bit.ly/sparkpracticeexams
-  - title: Join the Community and Ace the Exam!
+  - title: Join the Community and Ace the Databricks Spark Exam!
     images:
     - images/databricks_exam_support.svg
-    content: Studying Databricks Spark Certification Dumps alone can be hard. When you look at questions you will find in the real exam or at a dumps PDF, you may have many expected questions. Our practice exams have a great community of students who have taken the practice quizzes. Together, they know much more than all simplified exam dumps ever could. Our instructors are also here to help you pass the exam. You are invited to be a part of this community, ask your questions, and ace the Databricks Spark exam!
+    content: Studying Databricks Spark Certification Dumps alone can be hard. When you look at questions you will find in the real exam or at a dumps PDF, you may have many expected questions.<br>Our practice exams have a great community of students who have taken the practice quizzes. Together, they know much more than all simplified exam dumps ever could. Our instructors are also here to help you pass the exam. You are invited to be a part of this community, ask your questions, and ace the Databricks Spark exam!
     button:
       enable: true
-      label: Check it out
+      label: Get community access now
       link: https://bit.ly/sparkpracticeexams
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 pricing_left:
