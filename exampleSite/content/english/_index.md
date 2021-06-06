@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: SIGN UP NOW
-    link: https://bit.ly/sparkpracticeexams
+    link: /signup
 feature:
   enable: true
   title: Why You Will Have Exam Success
@@ -56,7 +56,7 @@ service:
     button:
       enable: true
       label: Start practicing now
-      link: https://bit.ly/sparkpracticeexams
+      link: /signup
   - title: Be Smart, Save Money, and Pass the First Time!
     images:
     - path: images/pass_exam_on_first_try.svg
@@ -71,7 +71,7 @@ service:
     button:
       enable: true
       label: Check it out
-      link: https://bit.ly/sparkpracticeexams
+      link: /signup
   - title: Join the Community and Ace the Databricks Spark Exam!
     images:
     - path: images/databricks_exam_support.svg
@@ -86,7 +86,7 @@ service:
     button:
       enable: true
       label: Get community access now
-      link: https://bit.ly/sparkpracticeexams
+      link: /signup
 screenshot:
   enable: false
   title: Experience the best <br> workflow with us
@@ -125,7 +125,7 @@ pricing_right:
   button:
     enable: true
     label: Get started now
-    link: https://bit.ly/sparkpracticeexams
+    link: /signup
 call_to_action:
   enable: true
   title: Ready to pass the Databricks Spark Exam?
@@ -138,7 +138,7 @@ call_to_action:
   button:
     enable: true
     label: Let's go!
-    link: https://bit.ly/sparkpracticeexams
+    link: /signup
 title: Databricks Spark Certification Dumps - Exam Success + PDF
 subtitle: ''
 description: Looking for Databricks Spark Certification Dump PDFs? Get real practice
