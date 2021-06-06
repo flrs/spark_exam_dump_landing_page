@@ -88,7 +88,7 @@ pricing_right:
   - Support community
   - Continuously updated content
   - Links to expert articles
-  - Includes exam tips & tricks
+  - Exam tips & tricks PDF
   - 30-Day Money Back Guarantee
   button:
     enable: true
