@@ -12,7 +12,7 @@ banner:
     link: https://bit.ly/sparkpracticeexams
 feature:
   enable: true
-  title: Why You Will Be Successful
+  title: Why You Will Have Exam Success
   feature_item:
   - name: High-Quality Questions
     icon: fas fa-star
