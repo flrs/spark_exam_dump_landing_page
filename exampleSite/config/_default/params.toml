@@ -1,17 +1,17 @@
 author = "Databricks Spark Certification Dumps - Exam Success + PDF"
 contact_form_action = "#"
-description = "Looking for Databricks Spark Certification Dump PDFs? Get real practice exams with relevant, updated, and realistic questions and answers here! Sign up now!"
+description = "Looking for Databricks Spark Certification Dump PDF? Get real practice exams with relevant, updated, and realistic questions and answers here! Sign up now!"
 logo = "images/databricks_spark_certification_dumps.svg"
 logo_width = "200px"
 favicon = "favicon.ico"
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "https://bit.ly/sparkpracticeexams"
+link = "signup"
 [preloader]
 enable = false
 preloader = ""
 [[social]]
 icon = "fas fa-graduation-cap"
-link = "https://bit.ly/sparkpracticeexams"
+link = "signup"
 title = "Databricks Certified Developer for Spark 3.0 Practice Exams"
