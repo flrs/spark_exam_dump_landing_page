@@ -89,6 +89,7 @@ pricing_right:
   - Continuously updated content
   - Links to expert articles
   - Includes exam tips & tricks
+  - 30-Day Money Back Guarantee
   button:
     enable: true
     label: Get started now
