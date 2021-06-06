@@ -11,6 +11,6 @@ link = "https://bit.ly/sparkpracticeexams"
 enable = false
 preloader = ""
 [[social]]
-icon = "fab fa-graduation-cap"
+icon = "fas fa-graduation-cap"
 link = "https://bit.ly/sparkpracticeexams"
 title = "Databricks Certified Developer for Spark 3.0 Practice Exams"
