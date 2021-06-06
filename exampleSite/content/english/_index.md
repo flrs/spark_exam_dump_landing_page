@@ -41,18 +41,13 @@ service:
       enable: true
       label: Check it out
       link: https://bit.ly/sparkpracticeexams
-  - title: It is a privately owned Information and cyber security company
-    images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+  - title: Be Smart, Save Money, and Pass the First Time!
+    - images/pass_exam_on_first_try.svg
+    content: In comparison to exam dumps, our practice tests are really affordable. You save money and learn how to ace the Databricks certification exam. With questons similar to what you will find in the real exam, get ready to pass the first time. By following our tests' certification syllabus and the many questions and answers you will not have to spend additional money on repeating the exam or on paying for expensive PDF exam braindumps. With our money back guarantee, you do not have to worry. 
     button:
       enable: true
       label: Check it out
-      link: "#"
+      link: https://bit.ly/sparkpracticeexams
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/service-2.png
