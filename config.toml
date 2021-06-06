@@ -2,15 +2,17 @@
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/icomoon/style.css"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
-link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
+#[[params.plugins.js]]
+#attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
+#link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"
 [params.variables]
 black = "#000"
 body_color = "#fff"
