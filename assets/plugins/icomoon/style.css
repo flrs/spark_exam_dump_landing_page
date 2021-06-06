@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'fas';
-  src:  url('fonts/fas.eot?cn26jw');
-  src:  url('fonts/fas.eot?cn26jw#iefix') format('embedded-opentype'),
-    url('fonts/fas.ttf?cn26jw') format('truetype'),
-    url('fonts/fas.woff?cn26jw') format('woff'),
-    url('fonts/fas.svg?cn26jw#fas') format('svg');
+  src:  url('fonts/fas.eot?6wxv5q');
+  src:  url('fonts/fas.eot?6wxv5q#iefix') format('embedded-opentype'),
+    url('fonts/fas.ttf?6wxv5q') format('truetype'),
+    url('fonts/fas.woff?6wxv5q') format('woff'),
+    url('fonts/fas.svg?6wxv5q#fas') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="fa-"], [class*=" fa-"] {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'fas' !important;
   speak: never;
