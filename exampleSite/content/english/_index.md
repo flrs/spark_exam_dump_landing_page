@@ -59,7 +59,8 @@ service:
       link: https://bit.ly/sparkpracticeexams
   - title: Be Smart, Save Money, and Pass the First Time!
     images:
-    - images/pass_exam_on_first_try.svg
+    - path: images/pass_exam_on_first_try.svg
+      alt: Pass Databricks Spark Certification Exam on First Try
     content: In comparison to PDF exam dumps, our practice tests are really affordable.
       You save money and learn how to ace the Databricks certification exam. With
       questions similar to what you will find in the real exam, get ready to pass
@@ -73,7 +74,8 @@ service:
       link: https://bit.ly/sparkpracticeexams
   - title: Join the Community and Ace the Databricks Spark Exam!
     images:
-    - images/databricks_exam_support.svg
+    - path: images/databricks_exam_support.svg
+      alt: Get Databricks Certification Dump Exam Support
     content: Studying Databricks Spark Certification Dumps alone can be hard. When
       you look at questions you will find in the real exam or at a dumps PDF, you
       may have many expected questions.<br>Our practice exams have a great community
