@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?o83dj3');
-  src:  url('fonts/icomoon.eot?o83dj3#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?o83dj3') format('truetype'),
-    url('fonts/icomoon.woff?o83dj3') format('woff'),
-    url('fonts/icomoon.svg?o83dj3#icomoon') format('svg');
+  font-family: 'fas';
+  src:  url('fonts/fas.eot?cn26jw');
+  src:  url('fonts/fas.eot?cn26jw#iefix') format('embedded-opentype'),
+    url('fonts/fas.ttf?cn26jw') format('truetype'),
+    url('fonts/fas.woff?cn26jw') format('woff'),
+    url('fonts/fas.svg?cn26jw#fas') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="fa-"], [class*=" fa-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'fas' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -25,24 +25,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-book:before {
+.fa-arrow-right:before {
+  content: "\e907";
+}
+.fa-bars:before {
+  content: "\e908";
+}
+.fa-book:before {
   content: "\e900";
 }
-.icon-concierge-bell:before {
+.fa-concierge-bell:before {
   content: "\e901";
 }
-.icon-graduation-cap:before {
+.fa-graduation-cap:before {
   content: "\e902";
 }
-.icon-search-plus:before {
+.fa-search-plus:before {
   content: "\e903";
 }
-.icon-smile:before {
+.fa-smile:before {
   content: "\e904";
 }
-.icon-star:before {
+.fa-star:before {
   content: "\e905";
 }
-.icon-sync-alt:before {
+.fa-sync-alt:before {
   content: "\e906";
 }
