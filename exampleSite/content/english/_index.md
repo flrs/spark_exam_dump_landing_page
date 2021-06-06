@@ -1,7 +1,9 @@
 ---
 banner:
   title: Databricks Spark Certification Dumps:<br>Let's get you certified!
-  image: images/databricks_exam_success.svg
+  image: 
+    path: images/databricks_exam_success.svg
+    alt: Databricks Certification Dump Success PDF
   content: You want exam success with Databricks Certified Associate Developer for
     Apache Spark 3.0 exam certification dumps? <br> We help you ace the Databricks
     certification exam with updated, relevant practice tests with high-quality questions
@@ -38,8 +40,10 @@ service:
   service_item:
   - title: Practice Exams That Really Prepare You
     images:
-    - images/fail_databricks_exam.svg
-    - images/pass_databricks_exam.svg
+    - path: images/fail_databricks_exam.svg
+      alt: Do not fail Databricks Spark Certification Exam
+    - path: images/pass_databricks_exam.svg
+      alt: Access relevant Spark certification syllabus
     content: Do not rely on a Databricks Spark Certification Dumps PDF. The dumps
       do not teach you enough to prepare for the updated questions in the certification
       exam. You can be surprised to find that you fail in the real exam, despite the
@@ -84,7 +88,9 @@ service:
 screenshot:
   enable: false
   title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
+  image: 
+  - path: images/screenshot.svg
+    alt: 
 pricing_left:
   name: Certification Dump
   price: "₹44,000+"
@@ -121,7 +127,9 @@ pricing_right:
 call_to_action:
   enable: true
   title: Ready to pass the Databricks Spark Exam?
-  image: images/databricks_exam_practice_tests_pass.svg
+  image: 
+  - path: images/databricks_exam_practice_tests_pass.svg
+  - alt: Pass Databricks Spark Exam Certifiction Dump PDF
   content: Join the many students who have passed the Databricks Certified Associate
     Developer for Apache Spark 3.0 exam without using PDFs or dumps and get access
     to the practice exams right now!
