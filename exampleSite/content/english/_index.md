@@ -38,7 +38,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Practice Exams That Really Prepare You
+  - title: Practice Exams That Prepare You Better Than a PDF Dump
     images:
     - path: images/fail_databricks_exam.svg
       alt: Do not fail Databricks Spark Certification Exam
@@ -62,7 +62,7 @@ service:
     - path: images/pass_exam_on_first_try.svg
       alt: Pass Databricks Spark Certification Exam on First Try
     content: In comparison to PDF exam dumps, our practice tests are really affordable.
-      You save money and learn how to ace the Databricks certification exam. With
+      You save and learn how to ace the Databricks certification exam. With
       questions similar to what you will find in the real exam, get ready to pass
       the first time. <br> By following our tests' certification syllabus and the
       many questions and answers you will not have to spend additional money on dumps,
@@ -80,7 +80,7 @@ service:
       you look at questions you will find in the real exam or at a dumps PDF, you
       may have many expected questions.<br>Our practice exams have a great community
       of students who have taken the practice quizzes. Together, they know much more
-      than all simplified exam dumps ever could. Our instructors are also here to
+      than all simplified exam dumps or a PDF dump ever could. Our instructors are also here to
       help you pass the exam. You are invited to be a part of this community, ask
       your questions, and ace the Databricks Spark exam!
     button:
@@ -94,7 +94,7 @@ screenshot:
   - path: images/screenshot.svg
     alt: 
 pricing_left:
-  name: Certification Dump
+  name: Certification Dump PDF
   price: "₹44,000+"
   price_per: 
   info: Expensive + Risky
@@ -118,9 +118,9 @@ pricing_right:
   - Learn for exam + job
   - Detailed explanations
   - Support community
+  - Exam tips & tricks PDF
   - Continuously updated content
   - Links to expert articles
-  - Exam tips & tricks PDF
   - 30-Day Money Back Guarantee
   button:
     enable: true
@@ -133,7 +133,7 @@ call_to_action:
     path: images/databricks_exam_practice_tests_pass.svg
     alt: Pass Databricks Spark Exam Certifiction Dump PDF
   content: Join the many students who have passed the Databricks Certified Associate
-    Developer for Apache Spark 3.0 exam without using PDFs or dumps and get access
+    Developer for Apache Spark 3.0 exam without using PDF or dumps and get access
     to the practice exams right now!
   button:
     enable: true
@@ -141,7 +141,7 @@ call_to_action:
     link: /signup
 title: Databricks Spark Certification Dumps - Exam Success + PDF
 subtitle: ''
-description: Looking for Databricks Spark Certification Dump PDFs? Get real practice
+description: Looking for Databricks Spark Certification Dump PDF? Get real practice
   exams with relevant, updated, and realistic questions and answers here! Sign up
   now!
 
