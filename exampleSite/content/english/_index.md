@@ -80,7 +80,7 @@ service:
       you look at questions you will find in the real exam or at a dumps PDF, you
       may have many expected questions.<br>Our practice exams have a great community
       of students who have taken the practice quizzes. Together, they know much more
-      than all simplified exam dumps ever could. Our instructors are also here to
+      than all simplified exam dumps or a PDF dump ever could. Our instructors are also here to
       help you pass the exam. You are invited to be a part of this community, ask
       your questions, and ace the Databricks Spark exam!
     button:
