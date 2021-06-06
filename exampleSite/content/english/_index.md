@@ -32,16 +32,11 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Practice Exams That Really Prepare You
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/fail_databricks_exam.svg
+    - images/pass_databricks_exam.svg
+    content: Do not rely on a Databricks Spark Certification Dumps PDF. They do not teach you enough to prepare for the updated questions in the certification exam. You can be surprised to find that you fail in the real exam. You are unprepared to use Spark in your job.<br> Many students like you pass the exam without help from a braindump or dumps pool. Using our practice exams does not take much time. The updated, relevant questions and explanations help you to really understand the underlying concepts. When you have used the practice exams in your study plan, you are very well prepared to pass the exam!
     button:
       enable: true
       label: Check it out
