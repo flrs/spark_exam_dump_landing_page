@@ -18,7 +18,7 @@ feature:
     icon: fas fa-search-plus
     content: Learn with with detailed explanations of correct and incorrect anwers!
   - name: Realistic Syllabus
-    icon: fas fa-book
+    icon: icon-book
     content: Study all topics from the certification syllabus of the real Databricks exam!
   - name: Up-to-Date Content
     icon: fas fa-sync-alt
