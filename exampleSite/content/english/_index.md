@@ -71,7 +71,7 @@ pricing_left:
   - Minimum learning
   - No explanations
   - No support
-  - Static
+  - Static PDF
   button:
     enable: false
     label: Get started for free
@@ -83,26 +83,25 @@ pricing_right:
   info: Economical + Smart
   services:
   - Start practicing immediately
-  - Learn for exam and job
+  - Learn for exam + job
   - Detailed explanations
-  - Big support community
+  - Support community
   - Continuously updated content
-  - Many links to expert articles
+  - Links to expert articles
   - Includes exam tips & tricks
   button:
     enable: true
     label: Get started now
-    link: "https://bit.ly/sparkpracticeexams"
+    link: https://bit.ly/sparkpracticeexams
 call_to_action:
   enable: true
-  title: Ready to get started?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  title: Ready to pass the Databricks Spark Exam?
+  image: images/databricks_exam_practice_tests_pass.svg
+  content: Join the many students who have passed the Databricks Certified Associate Developer for Apache Spark 3.0 exam and get access to the practice exams right now.
   button:
     enable: true
-    label: Contact Us
-    link: contact
+    label: Sign Up
+    link: https://bit.ly/sparkpracticeexams
 title: Databricks Spark Certification Dumps
 subtitle: ''
 
