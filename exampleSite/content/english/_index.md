@@ -130,7 +130,7 @@ call_to_action:
   enable: true
   title: Ready to pass the Databricks Spark Exam?
   image: 
-  - path: images/databricks_exam_practice_tests_pass.svg
+    path: images/databricks_exam_practice_tests_pass.svg
     alt: Pass Databricks Spark Exam Certifiction Dump PDF
   content: Join the many students who have passed the Databricks Certified Associate
     Developer for Apache Spark 3.0 exam without using PDFs or dumps and get access
