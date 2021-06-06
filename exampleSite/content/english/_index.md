@@ -62,33 +62,37 @@ screenshot:
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 pricing_left:
-  name: Basic Plan
-  price: "$49"
-  price_per: month
-  info: Best For Small Individuals
+  name: Certification Dump
+  price: "₹44,000+"
+  price_per:
+  info: Expensive + Risky
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - 1 week+ shipping time
+  - Minimum learning
+  - No explanations
+  - No support
+  - Static
   button:
-    enable: true
+    enable: false
     label: Get started for free
     link: "#"
 pricing_right:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  name: Practice Exams
+  price: "₹490"
+  price_per:
+  info: Economical + Smart
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Start practicing immediately
+  - Learn for exam and job
+  - Detailed explanations
+  - Big support community
+  - Continuously updated content
+  - Many links to expert articles
+  - Includes exam tips & tricks
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Get started now
+    link: "https://bit.ly/sparkpracticeexams"
 call_to_action:
   enable: true
   title: Ready to get started?
