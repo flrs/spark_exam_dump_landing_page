@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: SIGN UP NOW
-    link: /signup
+    link: https://bit.ly/sparkpracticeexams
 feature:
   enable: true
   title: Why You Will Have Exam Success
@@ -21,7 +21,7 @@ feature:
     content: Access an expert-written question pool you cannot find anywhere else!
   - name: Detailed Explanations
     icon: fas fa-search-plus
-    content: Learn with with detailed explanations of correct and incorrect anwers!
+    content: Learn with detailed explanations of correct and incorrect answers!
   - name: Realistic Syllabus
     icon: fas fa-book
     content: Study all topics from the certification syllabus of the real Databricks
@@ -56,7 +56,7 @@ service:
     button:
       enable: true
       label: Start practicing now
-      link: /signup
+      link: https://bit.ly/sparkpracticeexams
   - title: Be Smart, Save Money, and Pass the First Time!
     images:
     - path: images/pass_exam_on_first_try.svg
@@ -67,11 +67,11 @@ service:
       the first time. <br> By following our tests' certification syllabus and the
       many questions and answers you will not have to spend additional money on dumps,
       repeating the exam or on paying for expensive PDF exam braindumps. With our
-      money back guarantee, you do not have to worry.
+      money-back guarantee, you do not have to worry.
     button:
       enable: true
       label: Check it out
-      link: /signup
+      link: https://bit.ly/sparkpracticeexams
   - title: Join the Community and Ace the Databricks Spark Exam!
     images:
     - path: images/databricks_exam_support.svg
@@ -86,7 +86,7 @@ service:
     button:
       enable: true
       label: Get community access now
-      link: /signup
+      link: https://bit.ly/sparkpracticeexams
 screenshot:
   enable: false
   title: Experience the best <br> workflow with us
@@ -125,20 +125,20 @@ pricing_right:
   button:
     enable: true
     label: Get started now
-    link: /signup
+    link: https://bit.ly/sparkpracticeexams
 call_to_action:
   enable: true
   title: Ready to pass the Databricks Spark Exam?
   image: 
     path: images/databricks_exam_practice_tests_pass.svg
-    alt: Pass Databricks Spark Exam Certifiction Dump PDF
+    alt: Pass Databricks Spark Exam Certification Dump PDF
   content: Join the many students who have passed the Databricks Certified Associate
     Developer for Apache Spark 3.0 exam without using PDF or dumps and get access
     to the practice exams right now!
   button:
     enable: true
     label: Let's go!
-    link: /signup
+    link: https://bit.ly/sparkpracticeexams
 title: Databricks Spark Certification Dumps - Exam Success + PDF
 subtitle: ''
 description: Looking for Databricks Spark Certification Dump PDF? Get real practice
