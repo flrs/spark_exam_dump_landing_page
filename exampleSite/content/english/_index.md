@@ -38,7 +38,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Practice Exams That Really Prepare You Better Than PDF Dump
+  - title: Practice Exams That Prepare You Better Than PDF Dump
     images:
     - path: images/fail_databricks_exam.svg
       alt: Do not fail Databricks Spark Certification Exam
