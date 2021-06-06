@@ -77,7 +77,7 @@ service:
     - path: images/databricks_exam_support.svg
       alt: Get Databricks Certification Dump Exam Support
     content: Studying Databricks Spark Certification Dumps alone can be hard. When
-      you look at questions you will find in the real exam or at a dumps PDF, you
+      you look at questions you will find in the real exam or in a dumps PDF, you
       may have many expected questions.<br>Our practice exams have a great community
       of students who have taken the practice quizzes. Together, they know much more
       than all simplified exam dumps or a PDF dump ever could. Our instructors are also here to
