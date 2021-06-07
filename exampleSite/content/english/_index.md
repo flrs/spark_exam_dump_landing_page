@@ -10,7 +10,7 @@ banner:
     and answers. <br> Get fit for the real exam in minimal time!
   button:
     enable: true
-    label: SIGN UP NOW
+    label: ACCESS EXAMS NOW
     link: https://bit.ly/sparkpracticeexams
 feature:
   enable: true
