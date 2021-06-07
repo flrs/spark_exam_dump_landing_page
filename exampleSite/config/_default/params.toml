@@ -7,11 +7,11 @@ favicon = "favicon.ico"
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "signup"
+link = "https://bit.ly/sparkpracticeexams"
 [preloader]
 enable = false
 preloader = ""
 [[social]]
 icon = "fas fa-graduation-cap"
-link = "signup"
+link = "https://bit.ly/sparkpracticeexams"
 title = "Databricks Certified Developer for Spark 3.0 Practice Exams"
