@@ -16,11 +16,10 @@
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/google_analytics.html" . }}
 <script>
-var captureOutboundLink = function(url) {
-   ga('send', 'event', 'outbound', 'click', url, {
-     'transport': 'beacon',
-     'hitCallback': function(){document.location = url;}
-   });
+var captureOutboundLink = function(label, url) {
+   gtag('event', 'outbound', {'event_category': 'click', 'event_label': label,
+    'transport_type': 'beacon',
+    'event_callback': function(){document.location = url;}});
 }
 </script>
 {{ site.Params.custom_script | safeHTML }}
